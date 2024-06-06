@@ -8,7 +8,3 @@
 </div>
 
 ###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=bx-h.bx-h"  />
-</div>
